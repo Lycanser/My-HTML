@@ -1,0 +1,27 @@
+table {
+		border-style:inset;
+		border-collapse:collapse;
+		width:100%;
+		font-family: "Florence, cursive;
+		border:2px solid orange;
+}
+td,th {
+	border:3px solid red;
+}
+td {
+	text-align:center;
+	color:white;
+}
+th {
+	background-color:yellow;
+	color:orange;
+	pudding:10px;
+}
+tr,td:nth-child(even) {
+	background-color:maroon;
+}
+caption {
+	color:lightgreen;
+	font-size:40pt;
+	text-shadow:3px 4px 9px violet;
+}
